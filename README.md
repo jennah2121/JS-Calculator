@@ -1,5 +1,5 @@
 # Javascript Calculator
-A fully functioning javascript calculator made as part of FreeCodeCamp. 
+A fully functioning javascript calculator made as part of FreeCodeCamp using JQuery. 
 
 View the project at: https://jennah2121.github.io/JS-Calculator/
 
